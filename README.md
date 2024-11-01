@@ -15,3 +15,6 @@ Paying bills and viewing bill rates<br>
 Admin functionality to update bill rates<br>
 
 This project aims to simplify the management of electricity billing, offering an intuitive interface for both users and administrators.<br>
+Note:-for Admin login<br>
+      Admin username:admin<br>
+      admin password:password<br>      
